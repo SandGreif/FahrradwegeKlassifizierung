@@ -1,5 +1,8 @@
-# ignore csv Dateien
+# Ignoriere Dateien für git 
 *.csv
 *.jpg
 *.png
 *.zip
+# Ausnahmen
+!nichtFunktionaleArchitektur.png
+!sensorOrientierung.png
