@@ -3,6 +3,20 @@
 *.jpg
 *.png
 *.zip
-# Ausnahmen
+# Ausnahmen / Bilder
 !nichtFunktionaleArchitektur.png
 !sensorOrientierung.png
+!dataAugmentation0_1.jpg
+!dataAugmentation0_3.jpg
+!dataAugmentation1_0.jpg
+!konfusionsmatrix_versuch1_9.png
+!accuracy_versuch2_1.png
+!accuracy_versuch2_2.png
+!accuracy_versuch2_3.png
+!accuracy_versuch2_4.png
+!accuracy_versuch2_5.png
+!konfusionsmatrix_versuch2_1.png
+!konfusionsmatrix_versuch2_2.png
+!konfusionsmatrix_versuch2_3.png
+!konfusionsmatrix_versuch2_4.png
+!konfusionsmatrix_versuch2_5.png
