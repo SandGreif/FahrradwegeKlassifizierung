@@ -4,7 +4,7 @@
 
 In diesem Repository befinden sich Jupyter Notebboks, in welchem die aufgenommenen Daten von der [Fahrradwege-Monitoring-App](https://github.com/SandGreif/Fahrradwege-Monitoring-App) weiterverarbeitet werden. Wie in Abb. 1 der funktionalen Architektur zu sehen werden Daten mit einer Android App erfasst. Im nächsten Schritt erfolgt dann die Vorverarbeitung der Rohdaten, Klassifizierung von Fahrradwegen sowie das Taggen dieser für OpenStreetMap(OSM).
 
-![Android Smartphone Sensor Orientierung](daten/abbildungen/funktionaleArchitektur.png)
+<img src="daten/abbildungen/funktionaleArchitektur.png" alt="funktionale architektur" width="768px" />
 
 Abbildung 1: Funktionale Architektur
 
@@ -13,7 +13,8 @@ Abbildung 1: Funktionale Architektur
 Von der Fahrradwege-Monitoring-App werden kontinuierlich Fotos aufgenommen im Schnitt ca. 3 Bilder pro Sekunde. Die aufgenommenen Bilder werden nur abgespeichert, wenn die Geschwindigkeit zwischen 5 und 25 km/h liegt. Mit der Begrenzung soll verhindert werden, dass Bilder von Fahrradwegen im Stand verarbeitet werden oder zu unscharf werden durch Bewegungsunschärfe. In Abb. 1 ist zu sehen, dass das Smartphone bei den meisten aufgenommen Daten bzw. Datensätzen an der rechten Seite des Lenkers montiert war. Für den Benutzer ist so eine bequeme Bedienung der App möglich. Ein Nachteil ist der relativ große Abstand zum Boden mit ca. 97cm. Ein Datensatz setzt sich zusammen aus Bildaufnahmen und Messwerten einer gefahrenen Route. Weitere Informationen zu den Datensätzen befinden sich in den Ordner daten/beschreibung_der_datensaetze.xlsx.
 
 
-![Android Smartphone Sensor Orientierung](daten/abbildungen/sensorOrientierung.png)
+
+<img src="daten/abbildungen/sensorOrientierung.png" alt="Android Smartphone Sensor Orientierung" width="200px" />
 
 Abbildung 2: Android Smartphone Sensor Orientierung
 
