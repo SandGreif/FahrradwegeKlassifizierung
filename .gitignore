@@ -4,7 +4,7 @@
 *.png
 *.zip
 # Ausnahmen / Bilder
-!nichtFunktionaleArchitektur.png
+!funktionaleArchitektur.png
 !sensorOrientierung.png
 !dataAugmentation0_1.jpg
 !dataAugmentation0_3.jpg
