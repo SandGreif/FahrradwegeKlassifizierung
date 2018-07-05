@@ -3,6 +3,37 @@
 *.jpg
 *.png
 *.zip
+# Abgespeicherte Faltungsnetze
+modell_versuch1_1
+modell_versuch1_2
+modell_versuch1_3
+modell_versuch1_4
+modell_versuch1_5
+modell_versuch1_6
+modell_versuch1_7
+modell_versuch1_8
+modell_versuch1_9
+modell_versuch2_1
+modell_versuch2_2
+modell_versuch2_3
+modell_versuch2_4
+modell_versuch2_5
+modell_versuch4_1
+modell_versuch4_2
+modell_versuch4_3
+modell_versuch4_4
+modell_versuch4_5_1
+modell_versuch4_5_2
+modell_versuch4_5_3
+modell_versuch4_5_4
+modell_versuch4_6
+modell_versuch4_7
+modell_versuch4_8_1
+modell_versuch4_8_2
+modell_versuch4_8_3
+modell_versuch4_8_4
+modell_versuch4_9
+modell_versuch4_10
 # Ausnahmen / Bilder
 !funktionaleArchitektur.png
 !sensorOrientierung.png
