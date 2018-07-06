@@ -32,7 +32,8 @@ modell_versuch4_8_1
 modell_versuch4_8_2
 modell_versuch4_8_3
 modell_versuch4_8_4
-modell_versuch4_9
+modell_versuch4_9_1
+modell_versuch4_9_2
 modell_versuch4_10
 # Ausnahmen / Bilder
 !funktionaleArchitektur.png
@@ -99,4 +100,6 @@ modell_versuch4_10
 !fuzzifizierungGeschwindigkeitVersuch3.png
 !fahrqualitaetVersuch4.png
 !fuzzifizierungZAchseVersuch4.png
+!histogrammKlassenFuzzyVersuch5.png
 !histogrammKlassenFuzzyVersuch4.png
+!fahrqualitaetVersuch5.png
