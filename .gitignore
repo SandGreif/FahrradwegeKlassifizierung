@@ -36,6 +36,10 @@ modell_versuch4_9_1
 modell_versuch4_9_2
 modell_versuch4_10_1
 modell_versuch4_10_2
+modell_versuch4_10_2
+modell_versuch5_1
+modell_versuch5_2
+modell_versuch5_3
 # Ausnahmen / Bilder
 !funktionaleArchitektur.png
 !sensorOrientierung.png
@@ -53,6 +57,11 @@ modell_versuch4_10_2
 !konfusionsmatrix_versuch2_3.png
 !konfusionsmatrix_versuch2_4.png
 !konfusionsmatrix_versuch2_5.png
+!loss_versuch2_1.png
+!loss_versuch2_2.png
+!loss_versuch2_3.png
+!loss_versuch2_4.png
+!loss_versuch2_5.png
 !1523020542579.jpg
 !1521124101218.jpg
 !unbefestigt_testbilder.jpg
