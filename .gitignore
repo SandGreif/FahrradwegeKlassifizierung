@@ -42,7 +42,8 @@ modell_versuch5_2
 modell_versuch5_3
 modell_versuch5_4
 modell_versuch5_5
-modell_versuch5_6_1
+modell_versuch5_6_1´
+modell_versuch5_6_2
 # Ausnahmen / Bilder
 !funktionaleArchitektur.png
 !sensorOrientierung.png
@@ -138,3 +139,6 @@ modell_versuch5_6_1
 !trainingshistorieLossVersuch5_6_1.png
 !histogrammKlassenFuzzyVersuch7.png
 !konfmatrixVersuch5_6_1.png
+!konfmatrixVersuch5_6_2.png
+!trainingshistorieAccuracyVersuch5_6_2.png
+!trainingshistorieLossVersuch5_6_2.png
