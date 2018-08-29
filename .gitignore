@@ -51,6 +51,7 @@ modell_versuch2_3_8
 modell_versuch3_1
 modell_versuch3_2
 modell_versuch3_3
+modell_versuch3_4
 # Ausnahmen / Bilder
 !funktionaleArchitektur.png
 !sensorOrientierung.png
@@ -168,3 +169,4 @@ modell_versuch3_3
 !konfmatrixVersuch3_1.png
 !trainingshistorieAccuracyVersuch3_2.png
 !trainingshistorieLossVersuch3_2.png
+!trainingshistorieAccuracyVersuch3_3.png
